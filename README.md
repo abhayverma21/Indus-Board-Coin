@@ -14,5 +14,5 @@
 
 ## Author_3
 - **Name**: Manjeet Vishwakarma
-- **GitHub**: [GitHub Profile]()
-- **Contact**: [Email]()
+- **GitHub**: [GitHub Profile](https://github.com/Manjeet473)
+- **Contact**: [Email](manjeetvishwakarma446@gmail.com)
