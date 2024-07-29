@@ -11,7 +11,7 @@
 ## Author_3
 - **Name**: Manjeet Vishwakarma
 - **GitHub**: [GitHub Profile]()
-//- **Contact**: [Email]()
+- **Contact**: [Email]()
 
 ## Creator
 - **Name**: Ashwini Kumar Sinha
