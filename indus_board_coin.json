@@ -1,0 +1,18 @@
+{
+    "name": "Indus board coin",
+    "version": "1.0.0",
+    "Creator": "Ashwini Kumar Sinha",
+    "author_1": "Abhay Verma",
+    "author_2": "Satywanti",
+    "author_3": "Manjeet Vishwakarma",
+    "maintainer": "av.verma.abhay.21@gmail.com",
+    // "sentence": "A short description of what your library does.",
+    // "paragraph": "A more detailed description of the library and its features.",
+    // "category": "Signal Input/Output",
+    "url": "https://github.com/abhayverma21/Indus-Board-Coin"
+    // "architectures": ["avr", "esp32"],
+    // "examples": [
+    //   "examples/Example1/Example1.ino",
+    //   "examples/Example2/Example2.ino"
+    // ]
+  }
